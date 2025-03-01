@@ -1,4 +1,4 @@
-![logo](https://github.com/Hamza3087/Hamza3087/blob/main/hamzagithub%20banner.png)
+![logo](https://github.com/Hamza3087/Hamza3087/blob/main/hamzagithub%20banner.svg)
 
 <h1 align="center">Hi 👋, I'm Hamza Tariq</h1>
 <h3 align="center">A passionate Full Stack developer from FAST NUCES</h3>
