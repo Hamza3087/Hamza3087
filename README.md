@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **MERN STACK**
+- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **hamzagondal921@gmail.com**
 
